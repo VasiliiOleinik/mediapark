@@ -1,7 +1,7 @@
 # The task 
   1. Set up: 
-    - Build a simple, comprehensive and responsive layout
-    - Use [unspash](unsplash.com) image retrieval API
+    #  Build a simple, comprehensive and responsive layout
+    #  Use [unspash](unsplash.com) image retrieval API
   2. Basic image search functionality: 
     - Use Search endpoints from the [Unsplash API](https://unsplash.com/developers)
     - Display a search input field with a “Search” button
